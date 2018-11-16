@@ -170,7 +170,7 @@
             <div class="form-group">
                 <label class="col-lg-4 control-label" data-toggle="tooltip" title="Version Abeille.">{{Version Abeille : }}</label>
                 <div class="col-sm-4">
-                    Dev Master
+                    Version stable du 16/11/2018
                 </div>
             </div>
 
